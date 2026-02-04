@@ -1,0 +1,39 @@
+# Unity text files
+*.cs text diff=cs
+*.shader text
+*.cginc text
+*.txt text
+*.xml text
+*.json text
+*.meta text
+*.asmdef text
+*.asmref text
+
+# Binary files (do not change line endings)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.mat binary
+*.prefab binary
+*.unity binary
+*.asset binary
+*.controller binary
+*.anim binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.prefab binary
+*.mask binary
+*.physicsMaterial2D binary
+*.physicMaterial binary
+*.spriteatlas binary
+*.hdr binary
+*.shadergraph binary
+*.spriteatlas binary
+*.ttf binary
+
+# Default for all other files
+* text=auto
